@@ -1,0 +1,128 @@
+body{
+    background-color: gray;
+    margin: 0px;
+}
+
+.Haut-de-page{
+    display: flex;
+    margin: 5px;
+    justify-content: left;
+}
+header{
+    border-bottom: 2px blanchedalmond solid;
+    margin-bottom: 4px;
+}
+.BTM{
+    color: black;
+    font-family: Impact;
+    margin-right: 40px;
+    border: 10px;
+
+    padding: 20px;
+    font-size: 20px;
+}
+.Element{
+    color: black;
+    border: 10px;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.Element2{
+    color: black;
+    border: 5px;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.Element3{
+    color: black;
+    border: 10px;
+    padding: 20px;
+    font-size: 20px;
+}
+.GImg{
+    grid-template-rows: 1fr, 1fr;
+    align-content: center;
+}
+.Img1{
+    margin-left: 750px;
+    margin-top: 20px;
+}
+.Img2{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.Paver{
+    display: grid;
+    grid-template-columns: 1fr 500px;
+    margin: 100px;  
+}
+
+.Img3{
+    height: 200px;
+    width: 350px;
+}
+
+
+.Partie1{
+    Border: 0px black solid;
+    padding: 20px;
+    justify-content: left;
+}
+
+.Partie2{
+    border: 0px black solid;
+    padding: 13px;
+    justify-content: right;
+    background-color: white;
+    margin-right: 270px;
+    margin-bottom: 100px;
+}
+
+.MP1{
+    display: flex ;
+    justify-content: space-between,
+}
+
+.MP2{
+    color: red;
+    margin-left: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.MP3{
+    border-top: 25px;
+    border-bottom: -5px;
+}
+.MP4{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    border: 1px rgba(219, 219, 219, 0.966) solid;
+    margin-top: 70px;
+}
+.moin{
+    color: black; 
+    justify-content: left;
+    margin-left: 15px;
+}
+
+.un{
+    justify-content: center;
+}
+
+.plus{
+    justify-content: right;
+    margin-right: 15px;
+}
+
+.MP5{
+    border: 1px black solid;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
