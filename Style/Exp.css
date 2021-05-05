@@ -1,0 +1,155 @@
+body{
+    background-color: #000000;
+    color: white;
+}
+
+.HC{
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    display: flex;
+    
+}
+
+a:visited {
+    color: rgb(200, 200, 200);
+  }
+
+.img{
+    height: 80px;
+    width: 80px;
+}
+.name{
+    margin-top: 16px;
+    margin-left: 15px;
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Menu{
+    display: grid;
+    grid-template-columns: 200px 250px 200px 65px;
+    font-size: 25px;
+    text-align: center;
+}
+.Menu1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 1px rgb(200, 200, 200) solid;
+    border-radius: 5px;
+    padding: 4px;
+    padding-top: 20px;
+    margin-right: 20px;
+}
+
+.Menu2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 1px rgb(201, 188, 188) solid;
+    border-radius: 5px;
+    padding: 7px;
+    padding-top: 20px;
+    margin-right: 20px;
+}
+
+.Menu3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 1px rgb(201, 188, 188) solid;
+    border-radius: 5px;
+    padding: 4px;
+    padding-top: 20px;
+    
+}
+
+/* Corp*/ 
+
+.Logo_ex{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+    border: 2px solid white;
+    padding: 10px;
+}
+
+.Img2{
+    margin-top: 15px;
+}
+
+
+.Bouton3{
+    margin-top: 10%;
+    margin-left: 45%;
+    margin-right: 45%;
+    text-align: center;
+    font-size: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: 1px solid rgb(0, 217, 255);
+}
+
+.galerie{
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: 400px  60px 400px 40px  400px ;
+
+}
+
+.galerie2{
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: 400px  60px 400px 40px  400px ;
+
+}
+
+.galerie3{
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: 400px  60px 400px 40px  400px ;
+
+}
+
+.Enter{
+    margin-left: 20px;
+    width: 400px;
+    height: 400px;
+}
+
+.Entere{
+    width: 400px;
+    height: 400px;
+}
+
+.Enteres{
+    width: 400px;
+    height: 400px;
+}
+
+.Enter1{
+    margin-left: 20px;
+    width: 400px;
+    height: 400px;
+}
+
+.Entere2{
+    width: 400px;
+    height: 400px;
+}
+
+.Enteres3{
+    width: 400px;
+    height: 400px;
+}
+
+.Enter4{
+    margin-left: 20px;
+    width: 400px;
+    height: 400px;
+}
+
+.Entere5{
+    width: 400px;
+    height: 400px;
+}
+
+.Enteres6{
+    width: 400px;
+    height: 400px;
+}
