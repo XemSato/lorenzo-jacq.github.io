@@ -136,6 +136,7 @@ body{
 }
 
 .Milieu-de-page{
+    background-image: linear-gradient(black,rgb(253, 247, 247));
     display: flex;
     justify-content: center;
     align-items: center;
