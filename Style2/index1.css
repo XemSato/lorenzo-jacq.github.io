@@ -1,0 +1,195 @@
+
+.linear-gradient{
+     background-image: linear-gradient(rgb(253, 247, 247),black);
+    min-height: 150vh; 
+}  
+     
+
+body{
+    margin: 0%;
+    max-width: 230vh;
+   
+}
+.Logo{
+    display: flex;
+    justify-content: flex-start; 
+    margin: 0px;
+    margin: top;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+
+.C1{
+    color: black;
+    border: 15px;
+    padding: 20px;
+    font-size: 20px;
+    margin-right: 20px;
+    font-weight: bold;
+}
+
+.C2{
+    color: red;
+    border: 15px;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.C3{
+    color: black;
+    border: 15px;
+    padding: 20px;
+    font-size: 20px;
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+.Cate{
+    display: flex;
+    justify-content: center;
+}
+
+.Bouton{
+    color: blue;
+    border: 2px blue solid;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 8px;
+}
+
+.Bandeau{
+    display: flex;
+    justify-content: space-between ;
+    align-items: center;
+
+}
+
+
+.Haut-de-page{
+    display: grid;
+    grid-template-columns: 500px 500px;
+    margin-top: 50px;
+    margin-left: 70px;
+   
+}
+
+
+.Txt1{
+    color: Black;
+    font-size: 17px;
+}
+
+.Txt2{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.Txt3{
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.Bouton2{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.Démo{
+    border: 2px blue solid;
+    background-color: blue;
+    color: white;
+    margin-right: 15px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 20px;
+    text-align: center;
+    scroll-behavior: smooth;
+   
+}
+
+.Sinscrire{
+    color: blue;
+    border: 2px blue solid;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+.Img2{
+    width: 130%;
+    height: 120%;
+    margin-left: 10%;
+   
+}
+
+.Milieu-de-page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 120vh;
+}
+
+
+.Texte{
+    font-size: 28px;
+    margin-right: 70px;
+}
+.Carrer{
+    border: 2px black solid;
+    transform: rotate(45deg);
+    padding: 70px;
+    background-image: linear-gradient(135deg,rgb(194, 136, 28) ,rgb(255, 0, 221) );
+    
+}
+.Bas-de-page{
+    background-color: black;
+    height: 100px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+
+.bandeau-bas{
+    min-height: 100vh;
+    position: relative;
+    overflow: hidden;
+    
+}
+
+.Bandeau2{
+    position: absolute;
+    border: 10px rgb(54, 54, 54) solid;
+    background-color: rgb(54, 54, 54);
+    transform: rotate(320deg);
+    text-align: center;
+    padding: 5px 80px ;
+    top: 1600px;
+    right: 1px;
+}
+
+.lct{
+    margin-right: 1050px;
+    color: white;
+}
+
+.Logo2{
+    display: flex;
+    justify-content: flex-start; 
+    margin: 0px;
+    margin: top;
+    margin-right: 10px;
+    font-size: 36px;
+    font-weight: bold;
+    color: white;
+}
