@@ -179,6 +179,7 @@ body{
     padding: 5px 80px ;
     bottom: 0px;
     right: 1px;
+    z-index: 0;
 }
 
 .lct{
