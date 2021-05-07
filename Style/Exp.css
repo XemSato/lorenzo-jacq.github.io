@@ -14,12 +14,20 @@ body{
     display: flex;
     
 }
-
+.logo2{
+    display: flex;
+    
+}
 a:visited {
     color: rgb(200, 200, 200);
   }
 
 .img{
+    height: 80px;
+    width: 80px;
+}
+
+.img2{
     height: 80px;
     width: 80px;
 }
@@ -155,4 +163,9 @@ a:visited {
 .Enteres6{
     width: 400px;
     height: 400px;
+}
+
+.BC{
+    display: flex;
+    justify-content: space-between;
 }
