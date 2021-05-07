@@ -6,6 +6,8 @@ body{
 .HC{
     display: flex;
     justify-content: space-between;
+    position: fixed;
+    top: 0%;
 }
 .logo{
     display: flex;
