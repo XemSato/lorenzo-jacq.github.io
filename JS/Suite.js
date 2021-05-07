@@ -1,4 +1,4 @@
-document.querySelector(".Bouton3").addEventListener("click", add)
+document.querySelector(".Bouton3").addEventListener("click", add);
 
 function add(){
     document.querySelector(".Corp").innerHTML = ` <div class="galerie">
@@ -25,4 +25,4 @@ function add(){
      <div> <img class="Enteres6" src="Img/tim-mossholder-7VJU4Qc0Zgw-unsplash.jpg" ></div> 
   </div>
   <!--/La galeire-->`
-}
+};
