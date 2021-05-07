@@ -8,6 +8,7 @@ body{
     justify-content: space-between;
     position: sticky;
     top: 0%;
+    /*collant*/
 }
 .logo{
     display: flex;
