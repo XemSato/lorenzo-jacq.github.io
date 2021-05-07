@@ -140,6 +140,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 120vh;
+    position: relative;
 }
 
 
@@ -164,10 +165,8 @@ body{
 
 
 .bandeau-bas{
-    min-height: 10vh;
-    position: relative;
-    overflow: hidden;
     
+    position: relative;    
 }
 
 .Bandeau2{
@@ -177,7 +176,7 @@ body{
     transform: rotate(320deg);
     text-align: center;
     padding: 5px 80px ;
-    bottom: 0px;
+    bottom: -20px;
     right: 1px;
 }
 
