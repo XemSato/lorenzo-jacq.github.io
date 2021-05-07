@@ -164,7 +164,7 @@ body{
 
 
 .bandeau-bas{
-    min-height: 100vh;
+    min-height: 10vh;
     position: relative;
     overflow: hidden;
     
