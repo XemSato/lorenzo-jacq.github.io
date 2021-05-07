@@ -1,7 +1,7 @@
 document.querySelector(".Bouton3").addEventListener("click", add)
 
 function add(){
-    document.querySelector(".corp").innerHTML = ` <div class="galerie">
+    document.querySelector(".Corp").innerHTML = ` <div class="galerie">
     <div> <img class="Enter" src="Img/alexandru-acea-RQgKM1h2agA-unsplash.jpg" ></div>
     <div></div>
     <div> <img class="Entere" src="Img/charlota-blunarova-hmzKFGDeOV4-unsplash.jpg" ></div>
