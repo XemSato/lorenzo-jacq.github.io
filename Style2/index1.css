@@ -177,7 +177,7 @@ body{
     transform: rotate(320deg);
     text-align: center;
     padding: 5px 80px ;
-    top: 1600px;
+    bottom: 30px;
     right: 1px;
 }
 
