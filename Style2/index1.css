@@ -3,7 +3,7 @@
      background-image: linear-gradient(rgb(253, 247, 247),black);
     min-height: 150vh; 
 }  
-     
+
 html{
     scroll-behavior: smooth;
 }
@@ -112,7 +112,7 @@ body{
     padding-right: 15px;
     font-size: 20px;
     text-align: center;
-    scroll-behavior: smooth;
+   /* scroll-behavior: smooth;*/
    
 }
 

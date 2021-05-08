@@ -168,4 +168,6 @@ a:visited {
 .BC{
     display: flex;
     justify-content: space-between;
+     position: sticky;
+    top: Opx;
 }
