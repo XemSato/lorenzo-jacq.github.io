@@ -10,9 +10,10 @@ html{
 
 body{
     margin: 0%;
-    max-width: 230vh;
+    max-width: 150vh;
    
 }
+/*Commentaire*/
 .Logo{
     display: flex;
     justify-content: flex-start; 
@@ -178,8 +179,8 @@ body{
     transform: rotate(320deg);
     text-align: center;
     padding: 5px 80px ;
-    bottom: 10px;
-    right: -50px;
+    bottom: 0px;
+    right: -55px;
    
 }
 
