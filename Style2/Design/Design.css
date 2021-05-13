@@ -3,8 +3,13 @@
     justify-content: space-between;
     position: sticky;
     top: 0%;
-    background-color: black;
+   
     /*collant*/
+}
+
+body{
+    background-color: #000000;
+    color: white;
 }
 .logo{
     display: flex;
