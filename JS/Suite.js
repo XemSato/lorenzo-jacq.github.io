@@ -2,27 +2,27 @@ document.querySelector(".Bouton3").addEventListener("click", add);
 //NOICE
 function add(){
     document.querySelector(".Corp").innerHTML += ` <div class="galerie">
-    <div> <img class="Enter" src="Img/alexandru-acea-RQgKM1h2agA-unsplash.jpg" ></div>
+    <div> <img class="Enter" src="https://picsum.photos/400/400?rand1" ></div>
     <div></div>
-    <div> <img class="Entere" src="Img/charlota-blunarova-hmzKFGDeOV4-unsplash.jpg" ></div>
+    <div> <img class="Entere" src="https://picsum.photos/400/400?rand2" ></div>
     <div></div>
-    <div> <img class="Enteres" src="Img/clem-onojeghuo-6tedMQIJpNI-unsplash.jpg" ></div> 
+    <div> <img class="Enteres" src="https://picsum.photos/400/400?rand3" ></div> 
  </div>
 
  <div class="galerie2">
-     <div> <img class="Enter1" src="Img/finn-hackshaw-FQgI8AD-BSg-unsplash.jpg" ></div>
+     <div> <img class="Enter1" src="https://picsum.photos/400/400?rand4" ></div>
      <div></div>
-     <div> <img class="Entere2" src="Img/jon-tyson-EJzxF5uwJ-o-unsplash.jpg" ></div>
+     <div> <img class="Entere2" src="https://picsum.photos/400/400?rand5" ></div>
      <div></div>
-     <div> <img class="Enteres3" src="Img/michael-kemp-aC8_GKNHodw-unsplash.jpg" ></div> 
+     <div> <img class="Enteres3" src="https://picsum.photos/400/400?rand6" ></div> 
   </div>
 
   <div class="galerie3">
-     <div> <img class="Enter4" src="Img/nathan-dumlao-YNSdNgcseLo-unsplash.jpg" ></div>
+     <div> <img class="Enter4" src="https://picsum.photos/400/400?rand7"></div>
      <div></div>
-     <div> <img class="Entere5" src="Img/thiago-wimberly-3HrBXxl82e0-unsplash.jpg" ></div>
+     <div> <img class="Entere5" src="https://picsum.photos/400/400?rand8" ></div>
      <div></div>
-     <div> <img class="Enteres6" src="Img/tim-mossholder-7VJU4Qc0Zgw-unsplash.jpg" ></div> 
+     <div> <img class="Enteres6" src="https://picsum.photos/400/400?rand9" ></div> 
   </div>
   <!--/La galeire-->`
 };
