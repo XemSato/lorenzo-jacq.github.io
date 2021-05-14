@@ -26,3 +26,14 @@ function add(){
   </div>
   <!--/La galeire-->`
 };
+
+window.addEventListener("scroll", Floue , {passive:true});
+
+function Floue(){
+   document.querySelector(".HC").style.filter =  "blur(5px)";
+}
+
+function stop(){
+   document.querySelector(".HC").style.filter = "blur(0px)";
+}
+
